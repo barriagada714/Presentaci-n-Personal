@@ -1,0 +1,26 @@
+head{
+    
+    text-align: white;
+}
+body{
+    color: white;
+}
+#bloqueDatos {
+    background-color: rgb(252, 212, 143);
+    text-align: white;
+}
+.imagen1{
+    width: 65%;
+}
+.datos{
+    width: 80%;
+    text-align: white;
+  
+}
+table{
+    background-color: rgb(252, 212, 143);
+    border-color: rgb(250, 191, 90);
+    border-block-end-color: rgb(252, 212, 143);
+    border-block-start-color: rgb(252, 212, 143);
+}
+
